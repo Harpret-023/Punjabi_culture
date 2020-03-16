@@ -29,7 +29,7 @@ include_once "adminheader.php"
                        placeholder="category name">
             </div>
         </div>
-
+<h1>hello</h1>
         <div class="form-group row">
             <label for="username" class="col-md-2">Description</label>
             <div class="col-md-10">
