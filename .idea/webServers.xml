@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c719a4bf-0632-49b1-9905-14da211dabab" name="Punjabi_culture" url="http://localhost/Punjabi_culture">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\Punjabi_culture" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
